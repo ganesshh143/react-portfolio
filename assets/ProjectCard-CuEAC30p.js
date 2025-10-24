@@ -1,0 +1,1 @@
+import{j as r}from"./index-Bj7hSO07.js";const t=({title:e,description:c,link:s,image:a})=>r.jsxs("div",{className:"project-card",children:[a&&r.jsx("img",{src:a,alt:e,className:"project-image"}),r.jsx("h3",{children:e}),r.jsx("p",{children:c}),s&&r.jsx("a",{href:s,target:"_blank",rel:"noopener noreferrer",className:"project-link",children:"View Project"})]});export{t as default};

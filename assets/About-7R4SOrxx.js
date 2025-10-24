@@ -1,0 +1,1 @@
+import{j as e}from"./index-Bj7hSO07.js";const s=()=>e.jsxs("section",{id:"about",children:[e.jsx("h2",{children:"About Me"}),e.jsx("p",{children:"Hi! I'm Ganesh Mandave, a passionate web developer specializing in modern frontend development using React."})]});export{s as default};
